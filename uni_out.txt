@@ -1,0 +1,207 @@
+[DBG]:[1] COMMAND s
+[DBG]:[1] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[1] MATCH_S: S 0 O 0 E 9 L 9
+[DBG]:[1] REGS: 3
+[DBG]:[1] 	REG 0 9
+[DBG]:[1] 	REG 3 9
+[DBG]:[1] 	REG -1 -1
+[DBG]:[1] COMMAND s
+[DBG]:[1] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[1] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[1] REGS: 5
+[DBG]:[1] 	REG 0 6
+[DBG]:[1] 	REG 0 0
+[DBG]:[1] 	REG 0 3
+[DBG]:[1] 	REG 3 6
+[DBG]:[1] 	REG -1 -1
+[DBG_OUTPUT]: 538,032
+[DBG]:[2] COMMAND s
+[DBG]:[2] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[2] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[2] REGS: 5
+[DBG]:[2] 	REG 0 8
+[DBG]:[2] 	REG 2 8
+[DBG]:[2] 	REG -1 -1
+[DBG]:[2] 	REG -1 -1
+[DBG]:[2] 	REG -1 -1
+[DBG]:[2] COMMAND s
+[DBG]:[2] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[2] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[2] REGS: 5
+[DBG]:[2] 	REG 0 6
+[DBG]:[2] 	REG 0 0
+[DBG]:[2] 	REG 0 3
+[DBG]:[2] 	REG 3 6
+[DBG]:[2] 	REG -1 -1
+[DBG_OUTPUT]: 132,061
+[DBG]:[3] COMMAND s
+[DBG]:[3] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[3] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[3] REGS: 5
+[DBG]:[3] 	REG 0 8
+[DBG]:[3] 	REG 2 8
+[DBG]:[3] 	REG -1 -1
+[DBG]:[3] 	REG -1 -1
+[DBG]:[3] 	REG -1 -1
+[DBG]:[3] COMMAND s
+[DBG]:[3] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[3] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[3] REGS: 5
+[DBG]:[3] 	REG 0 6
+[DBG]:[3] 	REG 0 0
+[DBG]:[3] 	REG 0 3
+[DBG]:[3] 	REG 3 6
+[DBG]:[3] 	REG -1 -1
+[DBG_OUTPUT]: 709,273
+[DBG]:[4] COMMAND s
+[DBG]:[4] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[4] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[4] REGS: 5
+[DBG]:[4] 	REG 0 8
+[DBG]:[4] 	REG 2 8
+[DBG]:[4] 	REG -1 -1
+[DBG]:[4] 	REG -1 -1
+[DBG]:[4] 	REG -1 -1
+[DBG]:[4] COMMAND s
+[DBG]:[4] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[4] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[4] REGS: 5
+[DBG]:[4] 	REG 0 6
+[DBG]:[4] 	REG 0 0
+[DBG]:[4] 	REG 0 3
+[DBG]:[4] 	REG 3 6
+[DBG]:[4] 	REG -1 -1
+[DBG_OUTPUT]: 303,906
+[DBG]:[5] COMMAND s
+[DBG]:[5] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[5] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[5] REGS: 5
+[DBG]:[5] 	REG 0 8
+[DBG]:[5] 	REG 2 8
+[DBG]:[5] 	REG -1 -1
+[DBG]:[5] 	REG -1 -1
+[DBG]:[5] 	REG -1 -1
+[DBG]:[5] COMMAND s
+[DBG]:[5] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[5] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[5] REGS: 5
+[DBG]:[5] 	REG 0 6
+[DBG]:[5] 	REG 0 0
+[DBG]:[5] 	REG 0 3
+[DBG]:[5] 	REG 3 6
+[DBG]:[5] 	REG -1 -1
+[DBG_OUTPUT]: 859,401
+[DBG]:[6] COMMAND s
+[DBG]:[6] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[6] MATCH_S: S 0 O 0 E 7 L 7
+[DBG]:[6] REGS: 5
+[DBG]:[6] 	REG 0 7
+[DBG]:[6] 	REG 2 7
+[DBG]:[6] 	REG -1 -1
+[DBG]:[6] 	REG -1 -1
+[DBG]:[6] 	REG -1 -1
+[DBG]:[6] COMMAND s
+[DBG]:[6] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[6] MATCH_S: S 0 O 0 E 5 L 5
+[DBG]:[6] REGS: 5
+[DBG]:[6] 	REG 0 5
+[DBG]:[6] 	REG 0 0
+[DBG]:[6] 	REG 0 2
+[DBG]:[6] 	REG 2 5
+[DBG]:[6] 	REG -1 -1
+[DBG_OUTPUT]: 13,581
+[DBG]:[7] COMMAND s
+[DBG]:[7] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[7] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[7] REGS: 5
+[DBG]:[7] 	REG 0 8
+[DBG]:[7] 	REG 2 8
+[DBG]:[7] 	REG -1 -1
+[DBG]:[7] 	REG -1 -1
+[DBG]:[7] 	REG -1 -1
+[DBG]:[7] COMMAND s
+[DBG]:[7] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[7] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[7] REGS: 5
+[DBG]:[7] 	REG 0 6
+[DBG]:[7] 	REG 0 0
+[DBG]:[7] 	REG 0 3
+[DBG]:[7] 	REG 3 6
+[DBG]:[7] 	REG -1 -1
+[DBG_OUTPUT]: 664,345
+[DBG]:[8] COMMAND s
+[DBG]:[8] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[8] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[8] REGS: 5
+[DBG]:[8] 	REG 0 8
+[DBG]:[8] 	REG 2 8
+[DBG]:[8] 	REG -1 -1
+[DBG]:[8] 	REG -1 -1
+[DBG]:[8] 	REG -1 -1
+[DBG]:[8] COMMAND s
+[DBG]:[8] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[8] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[8] REGS: 5
+[DBG]:[8] 	REG 0 6
+[DBG]:[8] 	REG 0 0
+[DBG]:[8] 	REG 0 3
+[DBG]:[8] 	REG 3 6
+[DBG]:[8] 	REG -1 -1
+[DBG_OUTPUT]: 600,609
+[DBG]:[9] COMMAND s
+[DBG]:[9] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[9] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[9] REGS: 5
+[DBG]:[9] 	REG 0 8
+[DBG]:[9] 	REG 2 8
+[DBG]:[9] 	REG -1 -1
+[DBG]:[9] 	REG -1 -1
+[DBG]:[9] 	REG -1 -1
+[DBG]:[9] COMMAND s
+[DBG]:[9] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[9] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[9] REGS: 5
+[DBG]:[9] 	REG 0 6
+[DBG]:[9] 	REG 0 0
+[DBG]:[9] 	REG 0 3
+[DBG]:[9] 	REG 3 6
+[DBG]:[9] 	REG -1 -1
+[DBG_OUTPUT]: 994,797
+[DBG]:[10] COMMAND s
+[DBG]:[10] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[10] MATCH_S: S 0 O 0 E 8 L 8
+[DBG]:[10] REGS: 5
+[DBG]:[10] 	REG 0 8
+[DBG]:[10] 	REG 2 8
+[DBG]:[10] 	REG -1 -1
+[DBG]:[10] 	REG -1 -1
+[DBG]:[10] 	REG -1 -1
+[DBG]:[10] COMMAND s
+[DBG]:[10] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[10] MATCH_S: S 0 O 0 E 6 L 6
+[DBG]:[10] REGS: 5
+[DBG]:[10] 	REG 0 6
+[DBG]:[10] 	REG 0 0
+[DBG]:[10] 	REG 0 3
+[DBG]:[10] 	REG 3 6
+[DBG]:[10] 	REG -1 -1
+[DBG_OUTPUT]: 847,323
+[DBG]:[11] COMMAND s
+[DBG]:[11] G:1 P:00 E:0 MAX:1 NUMB:0 OUT:None FP:(nil) RX:^0\.0*\([0-9]*\)$ RXF:0 RXS:17 NSUB:1
+[DBG]:[11] MATCH_S: S 0 O 0 E 7 L 7
+[DBG]:[11] REGS: 5
+[DBG]:[11] 	REG 0 7
+[DBG]:[11] 	REG 2 7
+[DBG]:[11] 	REG -1 -1
+[DBG]:[11] 	REG -1 -1
+[DBG]:[11] 	REG -1 -1
+[DBG]:[11] COMMAND s
+[DBG]:[11] G:1 P:00 E:0 MAX:3 NUMB:0 OUT:None FP:(nil) RX:\(^\|[^0-9.]\)\([0-9]\+\)\([0-9]\{3\}\) RXF:0 RXS:39 NSUB:3
+[DBG]:[11] MATCH_S: S 0 O 0 E 5 L 5
+[DBG]:[11] REGS: 5
+[DBG]:[11] 	REG 0 5
+[DBG]:[11] 	REG 0 0
+[DBG]:[11] 	REG 0 2
+[DBG]:[11] 	REG 2 5
+[DBG]:[11] 	REG -1 -1
+[DBG_OUTPUT]: 10,605
