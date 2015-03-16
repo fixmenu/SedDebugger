@@ -27,7 +27,10 @@ void block_if_paused( FILE *in, int line_number ) {
     //DBG("THIS IS SED DEBUGGER\n");
     int ch;
     //while (breakpoint_wanted) {
-    /* */
+    /* 
+     * Adding break points required stack data structure, the user should specify lines to be debugged
+     * All changes should be updated and inform to the user
+     * */
     //}
 
     if (execution_mode == EXEC_CONT) { return; }
